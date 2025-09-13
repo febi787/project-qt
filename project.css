@@ -1,0 +1,19 @@
+.sec1{
+    background-image: url(coffee.jpg);
+    background-size: cover;
+    height: 300px;
+    
+    /* margin-top: 20px; */
+}
+.we{
+    text-align: center;
+    /* margin-top: 50px; */
+}
+.overlay{
+    background-color: rgba(0, 0, 0, 0.452);
+    padding-top: 100px;
+    height: 300px;
+}
+.contact{
+    background-color: rgb(252, 105, 105);
+}
